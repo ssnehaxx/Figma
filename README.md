@@ -1,4 +1,4 @@
 # Figma
-My first project- https://www.figma.com/file/3rxrALMfVV8kNJ2j60tPeY/First-Project-%3C3?type=design&node-id=5%3A379&mode=design&t=Kc6pGu1nS1aESoT0-1
+Hello, everyone! I'm excited to share my very first Figma project with you today. Which marks the beginning of my journey in UI/UX design.
 
-https://www.figma.com/file/3rxrALMfVV8kNJ2j60tPeY/First-Project-%3C3?type=design&node-id=43%3A1321&mode=design&t=Kc6pGu1nS1aESoT0-1
+Link: https://www.figma.com/file/3rxrALMfVV8kNJ2j60tPeY/First-Project-%3C3?type=design&node-id=43%3A1321&mode=design&t=Kc6pGu1nS1aESoT0-1
